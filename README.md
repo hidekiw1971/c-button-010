@@ -1,6 +1,7 @@
 <img width="1404" alt="image" src="https://user-images.githubusercontent.com/99580997/218870250-40e82410-92aa-46eb-83c8-5d0ea6b56d48.png">
 
 # compornent（共通部品）
+- 共通部品として最低限のcss設定をしている。
 
 ## portfolio url:
 
