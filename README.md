@@ -2,6 +2,11 @@
 
 # compornent（共通部品）
 - 共通部品として最低限のcss設定をしている。
+- chrome ok
+- safari ok
+- firefox ok
+- edge unconfirmed
+- w3c html/css ok
 
 ## portfolio url:
 
